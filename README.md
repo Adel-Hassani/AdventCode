@@ -26,4 +26,4 @@ All solution files are in the root directory:
 ## Submission
 As per instructions, solutions to be shared include:
 - The 8 integer results above
-- This repository's [source code](https://github.com/Adel-Hassani/AdventCode) (or direct file attachments)
+- This repository's [source code](https://github.com/Adel-Hassani/AdventCode)
